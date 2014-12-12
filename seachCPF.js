@@ -1,4 +1,4 @@
-jQuery(document).ready( function(){
+﻿jQuery(document).ready( function(){
 //HABILITANDO O EVENTO NO CAMPO CEP DO FORMULARIO
 					jQuery( "#mgm_register_field_cep" ).blur(function() {
 						//FUNCAO DE AUTOCOMPLETAR ENDERECO VIA CEP DIGITADO ===============================
